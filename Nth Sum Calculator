@@ -1,0 +1,12 @@
+print(
+    "welcome to the nth sum calculator, here you can enter your values and get the formula for the nth sum"
+)
+print("formula:  nth sum = n/2(2a+(n-1)d)")
+print("a = 1st term , d = common difference")
+print("n = term to find sum of")
+
+a=int(input('a='))
+d=int(input('d='))
+n=int(input('n='))
+eq1 = ((n/2)*(2*a+(n-1)*d))
+print("your answer =", eq1)
