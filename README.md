@@ -1,1 +1,1 @@
-# ICodeMyLife-Collection
+# ICodeMyLife-Nth-Sum-Calculator
